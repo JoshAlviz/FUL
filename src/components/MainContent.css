@@ -1,0 +1,14 @@
+.not-selectable {
+  user-select: none;
+  pointer-events: none; /* Prevents pointer-related events (hover, etc.) on the image itself */
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+ */
+}
+
+.logo-gradient {
+  background-image: linear-gradient(to right, #ff66c4, #ffde59);
+  -webkit-background-clip: text; /* For Safari and older versions of Chrome */
+  background-clip: text;
+  color: transparent;
+}

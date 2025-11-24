@@ -1,0 +1,6 @@
+.logo-gradient {
+  background-image: linear-gradient(to right, #ff66c4, #ffde59);
+  -webkit-background-clip: text; /* For Safari and older versions of Chrome */
+  background-clip: text;
+  color: transparent;
+}
