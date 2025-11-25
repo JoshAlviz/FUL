@@ -1,4 +1,4 @@
-import img from '../assets/images/img.png';
+import img from '../assets/images/img.jpg';
 import img1 from '../assets/images/img1.jpg';
 import F from '../assets/images/F.png';
 import U from '../assets/images/U.png';
@@ -12,7 +12,7 @@ function MainContent() {
 				<p className="f3 lh-copy measure center mb6 i white">"The world is slowly deteriorating, and one of the causes is our own small ways."</p>
 				<div className="flex flex-wrap items-center">
 					<div className="w-100 w-50-l order-1">
-						<img src={img} alt="garbage pollution" className="not-selectable"/>
+						<img src={img} alt="garbage pollution" className="w-100 not-selectable"/>
 						<p className="f6 center white">Photo by <a href="https://unsplash.com/@collab_media?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" className="link underline dim white">Collab Media</a> on <a href="https://unsplash.com/photos/a-river-filled-with-lots-of-trash-next-to-a-hillside-g5yUCnPd7D0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" className="link underline dim white">Unsplash</a>
       				    </p>
 					</div>
