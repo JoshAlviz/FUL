@@ -29,7 +29,7 @@ function MainContent() {
 				</div>
 			</div>
 			<div className="pv5 ph2 ph5-ns bg-white tc">
-				<p className="f3 lh-copy measure center mb6 i dark-gray">"We can help make the world a better place, by remembering the last three words of beauti<span className="logo-gradient">ful</span>"</p>
+				<p className="f3 lh-copy measure center mb6 i dark-gray">"We can help make the world a better place, by remembering the last three letters of beauti<span className="logo-gradient">ful</span>"</p>
 				<div className="flex flex-wrap items-start justify-center">
 					<div className="w-100 w-third-l ph3">
 						<img src={F} alt="F" className="not-selectable"/>
