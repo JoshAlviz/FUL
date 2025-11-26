@@ -17,7 +17,7 @@ function Footer() {
 	const shareUrl = "https://joshalviz.github.io/FUL/";
 	
 	return(
-		<div className="pv3 ph2 ph5-ns bg-washed-red tc">
+		<div className="pv3 ph3 ph5-ns bg-washed-red tc">
         	<p className="f2 lh-copy measure center i dark-gray">"Be use<span className="logo-gradient">ful</span> for a beauti<span className="logo-gradient">ful</span>, more wonder<span className="logo-gradient">ful</span> world."</p>
         	<div className="flex flex-wrap justify-center pt2">
         		<div className="ph2">
